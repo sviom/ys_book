@@ -1,0 +1,20 @@
+{
+    "list": [
+        {
+            "name": "강한별",
+            "profileImageName": "test.png"
+        },
+        {
+            "name": "김한별",
+            "profileImageName": "test.png"
+        },
+        {
+            "name": "피한별",
+            "profileImageName": "test.png"
+        },
+        {
+            "name": "정한별",
+            "profileImageName": "test.png"
+        }
+    ]
+}
